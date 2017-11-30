@@ -1,0 +1,19 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Test for {{ candidate.name }}</title>
+</head>
+
+    <form action="{{ candidate.get_absolute_url }}/test_results.html" method="post">
+        <ul class="Question">
+            {% for q in questions %}
+                <li>{{ q.text }}
+                    <select name="Answers" required>
+                        <option selected="selected">Choose your answer</option>
+                        <option>True</option>
+                        <option>False</option>
+                    </select>
+                </li>
+            {% endfor %}
+        <input type="submit" value="Отправить">
+        </ul>
+    </form>

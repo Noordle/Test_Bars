@@ -30,14 +30,14 @@ class Candidate(models.Model):
         return self.name
 
     def get_absolute_url(self):
-        return "/candidate/%i" % self.id
+        return "/candidate/%i/test" % self.id
 
 
 class Test(models.Model):
-    planet = models.ForeignKey(Planet, on_delete=models.CASCADE)
+    planet = models.OneToOneField(Planet, on_delete=models.CASCADE)
 
     def __str__(self):
-        return 'Test on %s' % self.planet
+        return '%s`s test' % self.planet
 
 
 class Question(models.Model):
