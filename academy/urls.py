@@ -1,4 +1,4 @@
-from Academy.views import *
+from academy.views import *
 from django.conf.urls import url
 
 

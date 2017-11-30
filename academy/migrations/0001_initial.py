@@ -40,11 +40,11 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='jedi',
             name='planet',
-            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='Academy.Planet'),
+            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='academy.Planet'),
         ),
         migrations.AddField(
             model_name='candidate',
             name='planet',
-            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='Academy.Planet'),
+            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='academy.Planet'),
         ),
     ]

@@ -33,4 +33,13 @@ class Jedi(models.Model):
 
 
 class Questions(models.Model):
-    question = models.CharField(max_length=255)
+    text = models.TextField(max_length=255)
+    answer = models.BooleanField()
+    test = models.ForeignKey(Test, on_delete=models.CASCADE)
+
+
+
+class Test(models.Model):
+    planet = models.ForeignKey(Planet, on_delete=models.CASCADE)
+
+
