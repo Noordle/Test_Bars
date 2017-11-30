@@ -8,19 +8,6 @@ class Planet(models.Model):
         return self.name
 
 
-class Candidate(models.Model):
-    name = models.CharField(max_length=254)
-    planet = models.ForeignKey(Planet, on_delete=models.CASCADE)
-    age = models.DateField()
-    email = models.EmailField(max_length=254)
-
-    def __str__(self):
-        return self.name
-
-    def get_absolute_url(self):
-        return "/candidate/%i" % self.id
-
-
 class Jedi(models.Model):
     name = models.CharField(max_length=254)
     planet = models.ForeignKey(Planet, on_delete=models.CASCADE)
@@ -32,11 +19,26 @@ class Jedi(models.Model):
         return "/jedi/%i" % self.id
 
 
+class Candidate(models.Model):
+    name = models.CharField(max_length=254)
+    planet = models.ForeignKey(Planet, on_delete=models.CASCADE)
+    age = models.PositiveIntegerField(default=1)
+    email = models.EmailField(max_length=254)
+    jedi = models.ForeignKey(Jedi, null=True)
+
+    def __str__(self):
+        return self.name
+
+    def get_absolute_url(self):
+        return "/candidate/%i" % self.id
+
+
 class Test(models.Model):
     planet = models.ForeignKey(Planet, on_delete=models.CASCADE)
 
     def __str__(self):
         return 'Test on %s' % self.planet
+
 
 class Question(models.Model):
     text = models.TextField(max_length=10000)
