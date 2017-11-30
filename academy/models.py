@@ -32,14 +32,16 @@ class Jedi(models.Model):
         return "/jedi/%i" % self.id
 
 
-class Questions(models.Model):
-    text = models.TextField(max_length=255)
-    answer = models.BooleanField()
-    test = models.ForeignKey(Test, on_delete=models.CASCADE)
-
-
-
 class Test(models.Model):
     planet = models.ForeignKey(Planet, on_delete=models.CASCADE)
 
+    def __str__(self):
+        return 'Test on %s' % self.planet
 
+class Question(models.Model):
+    text = models.TextField(max_length=10000)
+    answer = models.NullBooleanField()
+    test = models.ForeignKey(Test, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return 'Question for %s' % self.test
