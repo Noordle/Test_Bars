@@ -1,10 +1,11 @@
 from django.shortcuts import render
 from django.template import loader
-from django.http import HttpResponse, HttpResponseRedirect
+from django.http import HttpResponse, QueryDict
 from django.views.generic import TemplateView, ListView
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
 from academy.models import Candidate, Test, Question
 from django.urls import reverse
+import json
 
 
 class CandidateCreate(CreateView):
@@ -29,13 +30,15 @@ def test(request, cand_id):
     context = {
         'candidate': candidate,
         'question_list': question_list,
-        'questions' : questions,
+        'questions': questions,
     }
     return HttpResponse(template.render(context))
 
+
 def results(request, cand_id):
+    candidate = Candidate.objects.get(id=cand_id)
     template = loader.get_template("academy/test_results.html")
-
     context = {
-
+        'candidate': candidate,
     }
+    return HttpResponse(template.render(context))

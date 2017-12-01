@@ -5,6 +5,16 @@
     <title>Results</title>
 </head>
 <body>
+<h1>Congratulations, now waiting for decision of Jedi</h1>
+<p>
+    {{ candidate.name }} this is your answers: {{ candidate.answer }}
+{#    {% for i in candidate.answer %}#}
+{#        {{ i }}#}
+{#    {% endfor %}#}
+</p>
+<form name="Back" action="/home">
+    <input type="submit" value="Back to home page">
+</form>
 
 </body>
 </html>
