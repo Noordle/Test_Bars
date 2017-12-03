@@ -88,5 +88,5 @@ def add_jedi(request, cand_id):
 
 
 def send_notification(candidate):
-    email = EmailMessage('Congratulations', 'body', settings.EMAIL_HOST_USER, to=[candidate.email])
+    email = EmailMessage('Congratulations', 'Now, you are my padavan. Ha-ha-ha', settings.EMAIL_HOST_USER, to=[candidate.email])
     email.send()
