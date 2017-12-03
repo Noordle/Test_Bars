@@ -2,7 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ca42669-c64d-4f30-8c3b-27c7ed9742a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/changelists.f6dc691f8d62.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/dashboard.7ac78187c567.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/forms.2003a066ae02.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/login.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/rtl.4c867197b256.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/rtl.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/widgets.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/fonts/LICENSE.d273d63619c9.txt.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/fonts/Roboto-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/fonts/Roboto-Light-webfont.b446c2399bb6.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/fonts/Roboto-Regular-webfont.ec39515ae8c6.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/calendar-icons.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/gis/move_vertex_on.0047eba25b67.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-changelink.18d2fd706348.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-changelink.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-clock.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-deletelink.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-no.439e821418cd.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-no.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-unknown.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/search.7cf54ff789c6.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/sorting-icons.3a097b59f104.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/sorting-icons.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/tooltag-add.e59d620a9742.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/tooltag-arrowright.bbfb788a849e.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/tooltag-arrowright.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/SelectBox.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/SelectFilter2.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/actions.min.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/admin/DateTimeShortcuts.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/cancel.1d69cba4b4bf.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/collapse.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/inlines.min.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/jquery.init.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/popup_response.6ce3197f8fc8.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/popup_response.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/prepopulate.min.f4057ebb9b62.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/urlify.411bc3bb651c.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/jquery/jquery.aacc43d6f308.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/jquery/jquery.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/xregexp/xregexp.min.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/changelists.f6dc691f8d62.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/dashboard.7ac78187c567.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/forms.2003a066ae02.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/forms.77b3f8a70811.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/fonts/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/calendar-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-addlink.d519b3bab011.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-changelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-deletelink.564ef9dc3854.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-no.439e821418cd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-unknown-alt.81536e128bb6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-unknown.a18cb4398978.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/icon-unknown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/inline-delete.fec1b761f254.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/img/inline-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/actions.32861b6cbdf9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/admin/DateTimeShortcuts.1536fb6bea1d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/admin/RelatedObjectLookups.d2bdb1018963.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/collapse.min.dc930adb2821.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/core.fd861d43f0f5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/inlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/inlines.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/jquery.init.95b62fa19378.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/prepopulate.ff9208865444.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/prepopulate.min.f4057ebb9b62.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/prepopulate_init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/urlify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/xregexp/xregexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_bars/staticfiles/staticfiles.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_bars/settings.py" afterPath="$PROJECT_DIR$/test_bars/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,21 +127,6 @@
         <item name="test" type="e3449647:DbNodeDescriptor" />
         <item name="public" type="e3449647:DbNodeDescriptor" />
       </path>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="PostgreSQL - test@127.0.0.1" type="e3449647:DbNodeDescriptor" />
-        <item name="test" type="e3449647:DbNodeDescriptor" />
-        <item name="public" type="e3449647:DbNodeDescriptor" />
-        <item name="" type="fce03ad6:DatabaseStructure$GroupNode" />
-      </path>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="PostgreSQL - test@127.0.0.1" type="e3449647:DbNodeDescriptor" />
-        <item name="test" type="e3449647:DbNodeDescriptor" />
-        <item name="public" type="e3449647:DbNodeDescriptor" />
-        <item name="" type="fce03ad6:DatabaseStructure$GroupNode" />
-        <item name="academy_candidateanswer" type="e3449647:DbNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
@@ -69,26 +142,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/academy/models.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_bars/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="558">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#312#334#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_bars/settings.py">
+      <file leaf-file-name="academy_candidate" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_candidate">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academy_candidateanswer" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_candidateanswer">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academy_planet" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_planet">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academy_question" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_question">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_bars/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="e#312#334#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,53 +213,11 @@
       <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_bars/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="108">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_bars/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/academy/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="86" column="19" lean-forward="false" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -249,8 +314,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,6 +335,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,6 +357,11 @@
       </console-settings>
     </option>
     <option name="myShowDebugConsoleByDefault" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test_bars" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -663,7 +733,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512326093960</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Release 1">
+      <created>1512326879061</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1512326879061</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -677,18 +754,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="992" y="24" width="928" height="1056" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.50666666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32038835" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="manage.py@test_bars" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24919094" sideWeight="0.49546486" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27097505" sideWeight="0.49371633" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.029478459" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279396" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@test_bars" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919094" sideWeight="0.49546486" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777778" sideWeight="0.49371633" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16213152" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39867842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2936508" sideWeight="0.50628364" order="2" side_tool="true" content_ui="tabs" />
@@ -701,6 +776,7 @@
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.49333334" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279396" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -763,13 +839,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/academy/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -778,13 +847,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Academy/forms.py" />
-    <entry file="file://$PROJECT_DIR$/test_bars/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/academy/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -807,7 +869,6 @@
     <entry file="file://$PROJECT_DIR$/academy/migrations/0002_auto_20171201_1048.py" />
     <entry file="file://$PROJECT_DIR$/academy/migrations/0003_auto_20171201_1048.py" />
     <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_jedi" />
-    <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_question" />
     <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_test" />
     <entry file="file://$PROJECT_DIR$/academy/migrations/0002_auto_20171201_1103.py" />
     <entry file="file://$PROJECT_DIR$/academy/migrations/0001_initial.py">
@@ -818,7 +879,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/academy/templates/academy/success_add_can.html" />
-    <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_planet" />
     <entry file="file://$PROJECT_DIR$/academy/templates/academy/candidate_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -826,7 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_candidate" />
     <entry file="file://$PROJECT_DIR$/academy/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -835,13 +894,6 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/13aa134e-12db-4e94-aa12-bede09e87f40/console_1.sql" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/13aa134e-12db-4e94-aa12-bede09e87f40/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/8e4ce91c/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_question" />
     <entry file="file://$PROJECT_DIR$/academy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -857,9 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,7 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,9 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,19 +959,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile" />
-    <entry file="file://$PROJECT_DIR$/python-getting-started/Pipfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python-getting-started/Pipfile" />
     <entry file="file://$PROJECT_DIR$/test_bars/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="40" />
-          <folding />
+          <folding>
+            <element signature="e#312#334#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -935,9 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
           <caret line="86" column="19" lean-forward="false" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -945,7 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -961,7 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,18 +1017,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_bars/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_bars/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_candidate">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_candidateanswer">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_planet">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ad7b6f8e/13aa134e-12db-4e94-aa12-bede09e87f40/test.public.academy_question">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/13aa134e-12db-4e94-aa12-bede09e87f40/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_bars/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="558">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding>
             <element signature="e#312#334#0" expanded="true" />
           </folding>
