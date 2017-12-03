@@ -1,5 +1,5 @@
 from django.db import models
-from django.contrib.postgres.fields import JSONField, HStoreField
+from django.contrib.postgres.fields import JSONField
 
 
 class Planet(models.Model):
@@ -17,7 +17,7 @@ class Jedi(models.Model):
         return self.name
 
     def get_absolute_url(self):
-        return "/jedi/%i" % self.id
+        return "/home/jedi/%i" % self.id
 
 
 class Candidate(models.Model):
@@ -29,9 +29,6 @@ class Candidate(models.Model):
 
     def __str__(self):
         return self.name
-
-    def get_absolute_url(self):
-        return "/home/candidate/%i/test" % self.id
 
 
 class Test(models.Model):
@@ -49,7 +46,8 @@ class Question(models.Model):
     def __str__(self):
         return 'Question for %s' % self.test
 
-class CandidateAnswers(models.Model):
+
+class CandidateAnswer(models.Model):
     answer = JSONField()
     test = models.ForeignKey(Test, on_delete=models.CASCADE)
     candidate = models.ForeignKey(Candidate, on_delete=models.CASCADE)

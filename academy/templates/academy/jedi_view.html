@@ -1,0 +1,12 @@
+<h1>Welcome back, {{ jedi.name }}.</h1>
+<h1>Below You can see list with candidates from your planet {{ jedi.planet }}, who passed the test:</h1>
+<ul>
+    {% for candidate in jedi_cands %}
+    <li>{{ candidate.name }} ({{ candidate.answer }})
+        <form action="{% url 'academy:add_jedi' cand_id=candidate.id %}" method="post">
+            <input id="jedi_id" type="hidden" name="jedi_id" value="{{ jedi.id }}">
+            <input type="submit" id="jedi_id" value="Send message">
+        </form>
+    </li>
+    {% endfor %}
+</ul>

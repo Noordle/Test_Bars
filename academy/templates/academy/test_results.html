@@ -7,12 +7,10 @@
 <body>
 <h1>Congratulations, now waiting for decision of Jedi</h1>
 <p>
-    {{ candidate.name }} this is your answers: {{ candidate.answer }}
-{#    {% for i in candidate.answer %}#}
-{#        {{ i }}#}
-{#    {% endfor %}#}
+    {{ candidate.name }} this is your answers: {{ candidate_answers }}
+
 </p>
-<form name="Back" action="/home">
+<form name="Back" action="{% url 'academy:home_page' %}">
     <input type="submit" value="Back to home page">
 </form>
 

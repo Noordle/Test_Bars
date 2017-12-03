@@ -1,0 +1,12 @@
+<h1>List of Jedi`s</h1>
+<ul>
+     {% for jedi in active_jedis %}
+           <li><a href="{% url 'academy:jedi_view' jedi_id=jedi.id %}">{{ jedi.name }}  (Planet {{ jedi.planet }}) {{ jedi.candidate_set.count }}</a>
+           </li>
+     {% endfor %}
+<hr>
+    {% for jedi in empty_jedis %}
+           <li><a href="{% url 'academy:jedi_view' jedi_id=jedi.id %}">{{ jedi.name }}  (Planet {{ jedi.planet }}) {{ jedi.candidate_set.count }}</a>
+           </li>
+     {% endfor %}
+</ul>
